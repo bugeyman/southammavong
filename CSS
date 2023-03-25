@@ -1,0 +1,88 @@
+
+.siu{
+    background-color: rgb(224, 219, 207);
+    padding: 5px;
+    margin: 10px;
+}
+.nuu{
+    margin:-7px;
+    padding: 0px;
+}
+.nun{
+    display: flex;
+    list-style: none;
+    gap: 35px;
+    font-size: 15px;
+    
+}
+.gay{
+    margin: -7px;
+    padding: 0px;
+}
+.ben{
+    margin: 5px;
+    padding: 30px;
+    font-size: 10px;
+    color: rgba(89, 24, 151, 0.866);
+}
+.mess{
+    font-size: 30px;
+     padding: 0px;
+     margin: 0px;
+     
+}
+.nut{
+    color: blueviolet;
+}
+.baby{
+    font-size: 15px;
+}
+.blue{
+    background-color: blueviolet;
+    font-size: 17px;
+    margin-bottom: 50px;
+    display: block;
+    width: 120px;
+}
+.bett{
+    gap:5px;
+    display: flex;
+}
+.k1{
+    clip-path: circle();
+}
+.k2{
+    clip-path: circle();
+}
+.k3{
+    clip-path: circle();
+}
+.be{
+    font-size: 10px;
+    gap: 2px;
+}
+.b1{
+    font-size: 10px;
+}
+.s1{
+    display: flex;
+    gap: 10px;
+}
+.hub{
+width: 200%;
+height: 200%;
+position: absolute;
+top: -13%;
+left: 78%;
+margin-top: 100px;
+margin-left: -100px;
+}
+.porn{
+width: 200%;
+height: 200%;
+position: absolute;
+top: 23%;
+left: 45%;
+margin-top: 100px;
+margin-left: -100px;
+}
