@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <title>Home work</title>
+    <link rel="stylesheet" href="home.css">
+</head>
+    <nav class="siu">
+        <header>
+        <div">
+            <ul class="nun">
+                <p class="nuu"><img src="https://github.com/alisak-atk/alisak.github.io/blob/main/image/MIC.png?raw=true" width="25" height="25" alt=""></p>
+                <li><href="">Feature</a></li>
+                <li><href="">How It' Woeks </a></li>
+                <li><href="">Pricing</a></li>
+                <li><href="">Categories</a></li>
+                <li><href="">About </a></li>               
+            </ul>
+        </header>
+<body>
+
+        </div>
+          <div class="ben">
+            <p1>New Session Available</p1>
+          </div>
+        <div class="mess">
+            <p>The Best Place  </p>
+            <p>To Listen To your</p>
+            <p >Favoriate <a class="nut">Podcasts</a></p>
+               
+        </div>
+        <div class="baby">
+            <p>Lorem ipsun dolor sit arnet</p>
+            <p>consectetur adipisicing elit.Facilits</p>
+            <p>quisquam quidem pariatur.</p>
+        </div>
+        <nav class="bett">
+           <div class="blue">satrt trial for free</div>
+           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDbW1zHCEcbhxHovhXXI-7sI8doLM26io0FA&usqp=CAU" width="20"fill="currentColor" viewBox="0 0 16 16" height="20" alt="">
+           <p class="be" >How it's Works </p>
+        </nav>
+        <nav class="s1">
+            <div>
+                <img src="https://github.com/alisak-atk/alisak.github.io/blob/main/image/sshhoorrii1.png?raw=true" width="50" height="50" class="k1">
+                <img src="https://github.com/alisak-atk/alisak.github.io/blob/main/image/pngegg.png?raw=true" width="50 " height="50" class="k2" >
+                <img src="https://github.com/alisak-atk/alisak.github.io/blob/main/image/pngwing.com.png?raw=true" width="50" height="50" class="k3" >
+            </div>
+            <div>
+                <h1>140M</h1>
+                <p class="b1">Worldside listenners</p>
+            </div>
+            <div class="porn">
+                <img src="https://github.com/alisak-atk/alisak.github.io/blob/main/image/SUS.png?raw=true"width="350px" height="350px" alt="">
+            </div>
+            <div class="hub">
+                <img src="https://github.com/alisak-atk/alisak.github.io/blob/main/image/Giveyou.png?raw=true" width="350px" height="350px"alt="">
+            </div>
+       
+</body>
+</html>
